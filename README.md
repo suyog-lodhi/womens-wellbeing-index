@@ -109,7 +109,20 @@ lifestyle habits.
 │
 └── README.md
 ```
+## 🧮 Analytical Approach
+- Data cleaning and mean imputation for erroneous values
+- Calculated edu_gap column — original metric measuring 
+  school enrollment vs completion gap
+- State-level aggregation from district-level data
+- Scatter plot correlation analysis with R² values
+- Cross-category relationship mapping
 
+## ❗ Data Limitations
+- NFHS-5 covers 2019-21 — most recent available data
+- State summary values represent averages of 
+  district-level means
+- Cancer screening columns represent awareness/access, 
+  not prevalence
 
 ---
 
