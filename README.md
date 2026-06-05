@@ -95,6 +95,7 @@ lifestyle habits.
 ```
 ├── 01_Data
 │   └── Raw_data
+|   └── Clean_data
 │  
 │
 ├── 02_Dashboard
