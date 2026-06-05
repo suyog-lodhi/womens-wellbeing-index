@@ -99,16 +99,13 @@ lifestyle habits.
 │  
 │
 ├── 02_Dashboard
-│   └──  Brazil_E-Commerce_Marketplace_Performance_Dashboard.pbix
+│   └──  WomensWellbeingIndex.pbix
 │
 ├── 03_Images
 │   └── Dashboard_overview.png
 │
-├── 04_sql_queries
+├── 04_SQL_Queries
 │   └── SQL_queries.sql
-│
-├── 05_Presentation
-│   └── Project_Presentation.pptx
 │
 └── README.md
 ```
