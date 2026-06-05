@@ -94,8 +94,8 @@ lifestyle habits.
 # 📂 Repository Structure
 ```
 ├── 01_Data
-│   └── Raw_data
-|   └── Clean_data
+│   └── 01_Raw_data
+|   └── 02_Clean_data
 │  
 │
 ├── 02_Dashboard
